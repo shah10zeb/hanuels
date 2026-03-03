@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Car Shampoo",
+    "category": "Shampoos",
+    "price": 299,
+    "image": "https://source.unsplash.com/cPSBV5HQCck?w=500&h=500&fit=crop",
+    "description": "Professional-grade car shampoo that safely removes dirt and grime without damaging paint. pH-balanced formula for all car types.",
+    "specifications": {
+      "size": "500ml",
+      "type": "Concentrate",
+      "coverage": "20-30 washes",
+      "formula": "Soap-free"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Premium Car Shampoo (1L)",
+    "category": "Shampoos",
+    "price": 499,
+    "image": "https://source.unsplash.com/cPSBV5HQCck?w=500&h=500&fit=crop",
+    "description": "Professional-grade car shampoo that safely removes dirt and grime without damaging paint. Perfect for regular car washing.",
+    "specifications": {
+      "size": "1L",
+      "type": "Concentrate",
+      "coverage": "40-50 washes",
+      "formula": "Soap-free"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Premium Car Shampoo (5L)",
+    "category": "Shampoos",
+    "price": 1899,
+    "image": "https://source.unsplash.com/cPSBV5HQCck?w=500&h=500&fit=crop",
+    "description": "Bulk economy size of professional-grade car shampoo. Ideal for commercial use or frequent car owners.",
+    "specifications": {
+      "size": "5L",
+      "type": "Concentrate",
+      "coverage": "200+ washes",
+      "formula": "Soap-free"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Foam Car Shampoo",
+    "category": "Shampoos",
+    "price": 349,
+    "image": "https://source.unsplash.com/cPSBV5HQCck?w=500&h=500&fit=crop",
+    "description": "Rich foaming car shampoo that creates thick lather for easy cleaning. Leaves a protective shine on paint.",
+    "specifications": {
+      "size": "500ml",
+      "type": "Thick Foam",
+      "coverage": "15-20 washes",
+      "lather": "High-density"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Foam Car Shampoo (1L)",
+    "category": "Shampoos",
+    "price": 599,
+    "image": "https://source.unsplash.com/cPSBV5HQCck?w=500&h=500&fit=crop",
+    "description": "Rich foaming car shampoo in larger size. Perfect for weekly car washing routines.",
+    "specifications": {
+      "size": "1L",
+      "type": "Thick Foam",
+      "coverage": "30-40 washes",
+      "lather": "High-density"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Car Cleaning Chemical - Degreaser",
+    "category": "Cleaning Chemicals",
+    "price": 399,
+    "image": "https://source.unsplash.com/k1tSnHMHHWk?w=500&h=500&fit=crop",
+    "description": "Powerful degreaser for removing heavy dirt, oil stains, and grime from car exterior and engine bay.",
+    "specifications": {
+      "size": "750ml",
+      "type": "Heavy-duty",
+      "concentration": "Ready to use",
+      "effectiveness": "Industrial strength"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Car Cleaning Chemical - Bug Remover",
+    "category": "Cleaning Chemicals",
+    "price": 249,
+    "image": "https://source.unsplash.com/k1tSnHMHHWk?w=500&h=500&fit=crop",
+    "description": "Special formula to remove stubborn bug splatter and tar spots from windshield and paint without damage.",
+    "specifications": {
+      "size": "500ml",
+      "type": "Splash remover",
+      "concentration": "Ready to use",
+      "safe": "Paint-safe"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Car Cleaning Chemical - Wheel Cleaner",
+    "category": "Cleaning Chemicals",
+    "price": 279,
+    "image": "https://source.unsplash.com/k1tSnHMHHWk?w=500&h=500&fit=crop",
+    "description": "Specialized wheel cleaner that removes brake dust and grime from alloy and steel wheels effectively.",
+    "specifications": {
+      "size": "750ml",
+      "type": "Spray",
+      "concentration": "Ready to use",
+      "effectiveness": "Heavy-duty"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Car Freshener - Vanilla",
+    "category": "Fresheners",
+    "price": 149,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Long-lasting vanilla-scented car freshener. Choose between spray, gel, or hanging variants.",
+    "specifications": {
+      "variant": "Spray",
+      "size": "100ml",
+      "scent": "Vanilla",
+      "duration": "30 days"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Car Freshener - Vanilla (Gel)",
+    "category": "Fresheners",
+    "price": 179,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Gel-based vanilla car freshener for longer-lasting fragrance. Place on car dashboard or under seat.",
+    "specifications": {
+      "variant": "Gel",
+      "size": "150g",
+      "scent": "Vanilla",
+      "duration": "60 days"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Car Freshener - Vanilla (Hanging)",
+    "category": "Fresheners",
+    "price": 99,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Hanging vanilla-scented car air freshener. Classic style with natural fragrance.",
+    "specifications": {
+      "variant": "Hanging",
+      "size": "8g",
+      "scent": "Vanilla",
+      "duration": "30-45 days"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Car Freshener - Lemon",
+    "category": "Fresheners",
+    "price": 149,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Fresh lemon-scented car spray freshener. Eliminates odors and provides citrus fragrance.",
+    "specifications": {
+      "variant": "Spray",
+      "size": "100ml",
+      "scent": "Lemon",
+      "duration": "30 days"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Car Freshener - Lemon (Gel)",
+    "category": "Fresheners",
+    "price": 179,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Lemon-scented gel freshener for longer fragrance duration. Long-lasting odor elimination.",
+    "specifications": {
+      "variant": "Gel",
+      "size": "150g",
+      "scent": "Lemon",
+      "duration": "60 days"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Car Freshener - Lemon (Hanging)",
+    "category": "Fresheners",
+    "price": 99,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Hanging lemon car air freshener. Refreshing citrus scent for your vehicle.",
+    "specifications": {
+      "variant": "Hanging",
+      "size": "8g",
+      "scent": "Lemon",
+      "duration": "30-45 days"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Car Freshener - Ocean Fresh",
+    "category": "Fresheners",
+    "price": 159,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Crisp ocean-fresh scented spray freshener. Perfect for lovers of clean, marine fragrances.",
+    "specifications": {
+      "variant": "Spray",
+      "size": "100ml",
+      "scent": "Ocean Fresh",
+      "duration": "30 days"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Car Freshener - Ocean Fresh (Gel)",
+    "category": "Fresheners",
+    "price": 189,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Ocean-fresh scented gel freshener with extended fragrance duration.",
+    "specifications": {
+      "variant": "Gel",
+      "size": "150g",
+      "scent": "Ocean Fresh",
+      "duration": "60 days"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Car Freshener - Ocean Fresh (Hanging)",
+    "category": "Fresheners",
+    "price": 109,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Hanging ocean-fresh car air freshener. Brings a marine atmosphere to your car.",
+    "specifications": {
+      "variant": "Hanging",
+      "size": "8g",
+      "scent": "Ocean Fresh",
+      "duration": "30-45 days"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Car Freshener - Rose",
+    "category": "Fresheners",
+    "price": 149,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Elegant rose-scented car spray freshener. Premium floral fragrance for car interiors.",
+    "specifications": {
+      "variant": "Spray",
+      "size": "100ml",
+      "scent": "Rose",
+      "duration": "30 days"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Car Freshener - Rose (Gel)",
+    "category": "Fresheners",
+    "price": 179,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Rose-scented gel freshener with long-lasting fragrance and elegant aroma.",
+    "specifications": {
+      "variant": "Gel",
+      "size": "150g",
+      "scent": "Rose",
+      "duration": "60 days"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Car Freshener - Rose (Hanging)",
+    "category": "Fresheners",
+    "price": 99,
+    "image": "https://source.unsplash.com/3gKoiZwEWJA?w=500&h=500&fit=crop",
+    "description": "Hanging rose-scented car air freshener. Classic elegance for your vehicle.",
+    "specifications": {
+      "variant": "Hanging",
+      "size": "8g",
+      "scent": "Rose",
+      "duration": "30-45 days"
+    }
+  }
+]
